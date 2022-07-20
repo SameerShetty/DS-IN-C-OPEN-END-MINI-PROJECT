@@ -1,2 +1,2 @@
-# DS-IN-C-OPEN-END-MINI-PROJECT
+# DS-IN-C-OPEN-END-PROJECT
 Popcorn Horizon - Online movie tickets booking system 
